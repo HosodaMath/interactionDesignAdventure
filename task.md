@@ -16,3 +16,4 @@
 - [ ] menu and index
 - [ ] Control Panel
 - [ ] Sound Play
+- [ ] Exercise Integration Project
