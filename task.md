@@ -9,7 +9,7 @@
   押したら違うボタンに変わっている
   open and closeの最も根部分となるものです。
  -->
-- [ ] button change
+- [ ] click button change
 ### Open and Close 
 
 - [ ] article 
