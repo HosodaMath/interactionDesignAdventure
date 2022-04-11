@@ -1,5 +1,4 @@
 # Task
-
 ## Common
 
 - [ ] すべてのchapterのdocumentを書く
