@@ -1,8 +1,5 @@
 # Task
 
-<!--Notionページのクローンという形-->
-
-
 ## Chapter 0 Introduction
 - [ ]  なぜこの本を書いてのか？
 - [ ]  実行環境について
