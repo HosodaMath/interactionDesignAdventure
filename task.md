@@ -2,10 +2,6 @@
 
 <!--Notionページのクローンという形-->
 
-## Document
-
-- [ ] classNameとclassListの違い
-- [ ] innerHTMLについて  
 
 ## Chapter1 Button World
 ### Transform Button
