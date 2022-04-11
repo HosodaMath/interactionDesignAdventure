@@ -3,19 +3,26 @@
 <!--Notionページのクローンという形-->
 
 
-## Chapter1 Button World
-### Transform Button
+## Chapter 0 Introduction
+- [ ]  なぜこの本を書いてのか？
+- [ ]  実行環境について
+- [ ]  ....
+
+### 簡単な機能を実装してみましょう
+- [x]  異なるテキストが入ったボタンを入れ替える。 changeButton1
+- [x]  異なる画像ボタンを入れ替える。changeButton2
 
 <!-- 
   押したら違うボタンに変わっている
   open and closeの最も基本となるものです。
  -->
-- [ ] 異なるテキストが入ったボタンを入れ替える。
-- [ ] 異なる画像ボタンを入れ替える。
-### Open and Close 
+- [x] 異なるテキストが入ったボタンを入れ替える。
+- [x] 異なる画像ボタンを入れ替える。
+## Chapter 1 Transform Button
 
-- [ ] article 
-- [ ] menu and index
-- [ ] Control Panel
-- [ ] Sound Play
-- [ ] Exercise Integration Project
+以下のものに適切なボタンのデザインと実装をして以下のものに動的な機能を追加してみましょう。
+
+- [ ]  article記事の開閉
+- [ ]  Menu画面の開閉とIndexページの開閉
+- [ ]  コントロールパネルの開閉
+- [ ]  サウンドの再生と停止
