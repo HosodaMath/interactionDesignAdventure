@@ -1,0 +1,76 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+a {
+  text-decoration: none;
+  color: #d8feff;
+}
+
+/*
+  Common
+  共通のスタイル設定
+*/
+
+.darkMode {
+  background-color: #1f1f1f;
+  color: #d8feff;
+}
+
+.lightMode {
+  background-color: #d8feff;
+  color: #1f1f1f;
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+
+/*
+  デフォルトbuttonのスタイル
+*/
+
+.planeButtonDivision {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.planeButton {
+  background-color: aliceblue;
+  border: 10px double #1f1f1f;
+  color: #1f1f1f;
+  cursor: pointer;
+  font-size: 1.5rem;
+  padding: 20px;
+}
+
+/**
+  ボタンそのもののスタイル設定
+*/
+.imageButton {
+  appearance: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  width: 128px;
+  height: 128px;
+}
+
+/**
+  画像のスタイル設定
+*/
+.image {
+  width: 64px;
+  height: 64px;
+}
