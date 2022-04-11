@@ -2,14 +2,20 @@
 
 <!--Notionページのクローンという形-->
 
+## Document
+
+- [ ] classNameとclassListの違い
+- [ ] innerHTMLについて  
+
 ## Chapter1 Button World
 ### Transform Button
 
 <!-- 
   押したら違うボタンに変わっている
-  open and closeの最も根部分となるものです。
+  open and closeの最も基本となるものです。
  -->
-- [ ] click button change
+- [ ] 異なるテキストが入ったボタンを入れ替える。
+- [ ] 異なる画像ボタンを入れ替える。
 ### Open and Close 
 
 - [ ] article 
