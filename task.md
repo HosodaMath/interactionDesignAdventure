@@ -5,9 +5,10 @@
 - [ ] すべてのchapterのデモサイトを作成する。
 
 ## Chapter 0 Introduction
-- [ ]  なぜこの本を書いてのか？
-- [ ]  実行環境について
-- [ ]  ....
+- [ ]  なぜこの本を書いてのか -> Why write this book?
+- [ ]  実行環境について -> About Execution Environment
+- [ ]  デザインについて -> About Design
+- [ ]  アニメーションについて -> About Animation
 
 ### 簡単な機能を実装してみましょう
 - [x] changeButton1異なるテキストが入ったボタンを入れ替える。
