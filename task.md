@@ -5,8 +5,6 @@
 - [ ] すべてのchapterのデモサイトを作成する。
 
 ## Chapter 0 Introduction
-
-### Introduction
 - [ ]  なぜこの本を書いてのか -> Why write this book?
 - [ ]  実行環境について -> About Execution Environment
 - [ ]  デザインについて -> About Design
