@@ -4,6 +4,13 @@
 - [ ] すべてのchapterのdocumentを書く
 - [ ] すべてのchapterのデモサイトを作成する。
 
+## Chapter全体
+
+Chapterの番号等などに関係なく全体に適用
+
+- [ ]  hintボタンを作成ここに説明などを記載する。
+- [ ]  ソースコードへのリンク（ホスティングはGitHub）も追加する
+
 ## Chapter 0 Introduction
 - [ ]  なぜこの本を書いてのか -> Why write this book?
 - [ ]  実行環境について -> About Execution Environment
