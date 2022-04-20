@@ -21,6 +21,7 @@ Chapterの番号等などに関係なく全体に適用
 ### 簡単な機能を実装してみましょう
 - [x] changeButton1異なるテキストが入ったボタンを入れ替える。
 - [x] changeButton2異なる画像ボタンを入れ替える。
+- [ ] モーダルウィンドウの開閉
 ## Chapter1 Transform Button
 
 **figmaを使ったカンプ制作 + 機能実装でチェックが可能**
