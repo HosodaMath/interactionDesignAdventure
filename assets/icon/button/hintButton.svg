@@ -19,6 +19,12 @@
   <defs
      id="defs899">
     <rect
+       x="107.17168"
+       y="67.882251"
+       width="21.393194"
+       height="44.020611"
+       id="rect4968" />
+    <rect
        x="25.50727"
        y="22.627417"
        width="88.246927"
@@ -72,7 +78,7 @@
      showgrid="false"
      inkscape:zoom="4.8613591"
      inkscape:cx="63.916237"
-     inkscape:cy="63.001757"
+     inkscape:cy="66.027976"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -136,4 +142,8 @@
      cx="64"
      cy="64"
      r="62.451668" />
+  <text
+     xml:space="preserve"
+     id="text4966"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect4968);" />
 </svg>
