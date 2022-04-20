@@ -90,18 +90,6 @@
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="opacity:0.996;fill:#d8feff;fill-opacity:1;stroke:none;stroke-width:1.98124"
-       id="path1471-3"
-       cx="16.933334"
-       cy="16.933334"
-       r="16.933334" />
-    <circle
-       style="opacity:0.996;fill:none;stroke:#1f1f1f;stroke-width:1.26067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1471"
-       cx="16.933334"
-       cy="16.933334"
-       r="15.244668" />
     <text
        xml:space="preserve"
        id="text1494"
@@ -110,5 +98,11 @@
          x="25.507812"
          y="42.69822"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:sans-serif;-inkscape-font-specification:sans-serif">GitHub  </tspan></tspan></text>
+    <circle
+       style="opacity:0.998;fill:none;stroke:#282828;stroke-width:0.819327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path833"
+       cx="16.933334"
+       cy="16.933334"
+       r="16.52367" />
   </g>
 </svg>

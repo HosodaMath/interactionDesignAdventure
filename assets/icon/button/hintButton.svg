@@ -72,7 +72,7 @@
      showgrid="false"
      inkscape:zoom="4.8613591"
      inkscape:cx="63.916237"
-     inkscape:cy="54.773606"
+     inkscape:cy="63.001757"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -113,18 +113,6 @@
        x="19.748047"
        y="138.31743"><tspan
          dx="0 31.484375 24.921875 23.828125">Open</tspan></tspan></text>
-  <circle
-     style="opacity:0.996;fill:#d8feff;fill-opacity:1;stroke:none;stroke-width:7.48816"
-     id="path1471-3"
-     cx="64"
-     cy="64"
-     r="64" />
-  <circle
-     style="opacity:0.996;fill:none;stroke:#1f1f1f;stroke-width:4.76472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path1471"
-     cx="64"
-     cy="64"
-     r="57.617641" />
   <text
      xml:space="preserve"
      id="text1488"
@@ -142,4 +130,10 @@
        x="25.507812"
        y="79.434687"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#1f1f1f;fill-opacity:1">?</tspan></tspan></text>
+  <circle
+     style="opacity:0.998;fill:none;stroke:#282828;stroke-width:3.09667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path833"
+     cx="64"
+     cy="64"
+     r="62.451668" />
 </svg>
