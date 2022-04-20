@@ -3,6 +3,7 @@
 
 - [ ] すべてのchapterのdocumentを書く
 - [ ] すべてのchapterのデモサイトを作成する。
+- [ ] フォントを英語と日本語で分ける
 
 ## Chapter全体
 
