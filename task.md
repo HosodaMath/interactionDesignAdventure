@@ -22,6 +22,7 @@ Chapterの番号等などに関係なく全体に適用
 - [x] changeButton1異なるテキストが入ったボタンを入れ替える。
 - [x] changeButton2異なる画像ボタンを入れ替える。
 - [ ] モーダルウィンドウの開閉（chapterすべてに必要な機能）
+- [ ] 前のページもしくは次のページへ移動
 ## Chapter1 Transform Button
 
 **figmaを使ったカンプ制作 + 機能実装でチェックが可能**
